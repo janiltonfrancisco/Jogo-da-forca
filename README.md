@@ -24,3 +24,13 @@ Este projeto é um jogo simples da Forca desenvolvido em **Java**, onde o jogado
    ```bash
    javac Forca.java
    java Forca
+
+ > Melhorias futuras:
+  
+Adicionar múltiplas palavras aleatórias.
+
+Implementar interface gráfica (Swing ou JavaFX).
+
+Criar sistema de pontuação.
+
+
